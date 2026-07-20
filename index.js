@@ -6,7 +6,7 @@
 
 const CONFIG = {
   UUID: '0c332327-9d24-4c5e-ac54-9299dfcd94ba',
-  PATH: '/vless-service'
+  PATH: '/r3g7f9h2k1p0l5m8n'
 };
 
 export default {
